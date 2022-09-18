@@ -617,6 +617,3 @@
 			behavior: 'smooth'
 		});
 	});
-
-
-
